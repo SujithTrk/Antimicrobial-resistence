@@ -1,6 +1,5 @@
 # Deep Learning-Based Object Detection and Bacteria Morphological Feature Extraction for Antimicrobial Resistance Applications
 
-See our [paper](https://ieeexplore.ieee.org/document/10322010) on IEEEXplore.
 
 Antibiotics are the primary drug for treating various kinds of infections occurring from bacteria and microbes.
 They work mainly by blocking the vital pathway of those organisms and stopping them from multiplying. Previous
@@ -148,6 +147,4 @@ If you use our project or the our paper, please cite as
   doi={10.1109/BMEiCON60347.2023.10322010}}
 ```
 
-## ACKNOWLEDGMENT
 
-We would like to thank Poochit Nonejuie Ph.D. and Mr. Thanadon Samernate from the Institute of Molecular Biosciences that inspired us and prepared the dataset for this study.

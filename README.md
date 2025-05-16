@@ -111,11 +111,11 @@ npm start
     Perform prediction: bbox with class (left) and bbox with an index number for feature extraction table (right)
     <img src="./Bacteria_images/readme_image/webapp_img.png"
   <tr>
-    Table of Feature Extraction results
+    Table of Feature Extraction Results
     <img src="./Bacteria_images/readme_image/webapp_table.png"/>
 </table>
 
-## Inference without Web Appplication
+## Inference without Web Application
 
 ```sh
 cd webapp/backend/inference
@@ -130,21 +130,4 @@ The outputs will be in the output folder and include
 
 YOLOv2 model is trained using [darknet](https://github.com/pjreddie/darknet)\
 Other object detection models are trained using [mmdetection](https://github.com/open-mmlab/mmdetection)
-
-## Citations
-
-If you use our project or the our paper, please cite as
-
-```
-@INPROCEEDINGS{10322010,
-  author={Chotayapa, Korrawiz and Leethamchayo, Thanyatorn and Chinnawong, Piraya and Samernate, Thanadon and Nonejuie, Poochit and Achakulvisut, Titipat},
-  booktitle={2023 15th Biomedical Engineering International Conference (BMEiCON)}, 
-  title={Deep Learning-Based Object Detection And Bacteria Morphological Feature Extraction For Antibiotic Mode Of Action Study}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-5},
-  doi={10.1109/BMEiCON60347.2023.10322010}}
-```
-
 
